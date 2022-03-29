@@ -1,4 +1,7 @@
-###  Hola soy Marcelo Yévenes👋
+###  Hola, soy Marcelo Yévenes👋
+
+## Desarrollador FullStack con Javascript, React y NodeJS!
+- 🔭 Actualmente trabajo en Practia Global como Desarrollador Fullstack en Angular y NodeJS!
 
 <!--
 **MarceloYevenesM/MarceloYevenesM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
