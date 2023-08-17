@@ -1,6 +1,6 @@
 ###  Hola, soy Marcelo Yévenes👋
 
-## Desarrollador FullStack con Javascript, React, NodeJS y Flutter!
+## Desarrollador FullStack con Javascript, React, NodeJS!
 - 🔭 Actualmentem, trabajo como desarrollador freelance en desarrollo de páginas web y aplicaciones móviles en Flutter.
 - 🌱 Constantemente, estoy aprendiendo nuevas tecnología y en este instante estudiando Desarrollo con React en CoderHouse. 
 - 👯 Me gusta colaborar realizando clases de programación gratuitas en fundaciones encargadas de acercar a personas a la programación. 
